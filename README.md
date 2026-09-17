@@ -1,4 +1,4 @@
-# Python-Day-18-Practice
-Day 18 Python practice programs.
+# Python practice Day 18
+Python practice Day 18 programs.
 -Factors of a number
 -print all prime numbers of 1 to n
